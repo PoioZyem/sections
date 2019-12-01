@@ -1,0 +1,23 @@
+html {
+  background-color: #eee9de;
+  max-width: 25em;
+  margin: 1.5rem;
+  line-height: 1.5;
+}
+
+img {
+  width: 100%;
+  display: block;
+}
+
+h1 {
+  font-family: "Lato", sans-serif;
+}
+
+p {
+  font-family: "Lato", sans-serif;
+}
+
+li {
+
+}
